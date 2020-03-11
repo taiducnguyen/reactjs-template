@@ -1,4 +1,4 @@
-import App from './modules/App';
+import App from './modules/App.jsx';
 import React from 'react'; //eslint-disable-line
 import { render } from 'react-dom';
 import { Provider } from 'react-redux';
